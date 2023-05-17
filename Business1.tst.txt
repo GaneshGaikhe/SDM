@@ -1,0 +1,12 @@
+Bussiness entities
+1.Employee
+2.Project manager
+3.Delivery Manager
+4.Stakeholder
+
+Bussiness Operations
+1.Registration->reg,login,logout
+2.Attendence->present ,absent
+3.leave->accpect,reject,hold
+4.online project interface->view,update,delete,change,future plan,projectid,employename,managername
+5.project progress->status,history,time

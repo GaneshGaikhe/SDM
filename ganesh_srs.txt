@@ -1,0 +1,46 @@
+Online Project Management System
+
+Tiltle :online project management system
+
+Objective: To create a tool which will help in project management to organization.
+It will maintain all records and steps of in that project for best planing and
+complete the project the project on time.  
+
+Functional  requirements:
+1.Employee Registration 
+Here project manager can register employee  for project and employee can log in and log out using this interface.
+This will be access by both emplyee and project manager,but employee cannot add or delete any one.
+--------->registration,login,logout
+2.Employee attendence
+Employee can attain there attence using this interface.
+It will be moniter by project manager
+---------->Present,absent
+3.Employee leave management
+The leave of employees will be access by project manager and it will be accpect ,reject or on hold.
+request send by employee and accpect or reject by manager
+---------->Accpect,reject,hold
+4.Online Project 
+This is the common interface where project manager ,delivery manager and emplyee will be on same platform.
+manager can add some points which he want and also delet.Employee can update the progress and
+that can be access by by manager. Also delivery amanger is common link between stakeholder and organization
+---------->view,update,delete,change,future plan
+5.Project interface
+Here Delivery manager and stakeholder will communicate.Manager takes information from organization and shared it with stakeholders
+staus of project ,history and expected time will be shared.
+----------->status,history,expectred time
+
+
+
+
+Non Functional requirements:
+1.Sequrity:
+sequrity is most important functonlity here.
+no third party access shouiuld be allowed..
+2.Availability:
+should be 24*7 availabe for access to employee and can work efficiently
+3.Maintainability
+It should maintain the load of system effeicently.
+Maintaince and easy and simple
+4.Performance
+excellent performance requried in all conditions
+
